@@ -5,7 +5,7 @@ An Amplify CLI plugin that adds VPC configuration and permissions to all Lambda 
 ## Installation
 
 ```
-npm i -g custom-amplify-util-lambda-vpc
+npm i -g @ritikk/custom-amplify-util-lambda-vpc
 
 amplify plugin add custom-amplify-util-lambda-vpc
 ```
