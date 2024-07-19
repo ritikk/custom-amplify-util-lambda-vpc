@@ -1,5 +1,5 @@
 {
-  "name": "custom-amplify-util-lambda-vpc",
+  "name": "@ritikk/custom-amplify-util-lambda-vpc",
   "version": "1.0.0",
   "description": "Adds VPC configuration and permissions to all Lambda functions in an Amplify backend",
   "main": "index.js",
