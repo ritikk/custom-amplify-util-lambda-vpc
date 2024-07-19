@@ -1,0 +1,24 @@
+{
+  "name": "custom-amplify-util-lambda-vpc",
+  "version": "1.0.0",
+  "description": "Adds VPC configuration and permissions to all Lambda functions in an Amplify backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amplify",
+    "lambda",
+    "vpc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritikk/custom-amplify-util-lambda-vpc.git"
+  },
+  "author": "Ritik Khatwani <crucio.ritik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikk/custom-amplify-util-lambda-vpc/issues"
+  },
+  "homepage": "https://github.com/ritikk/custom-amplify-util-lambda-vpc"
+}

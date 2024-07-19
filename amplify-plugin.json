@@ -1,0 +1,10 @@
+{
+  "name": "custom-amplify-util-lambda-vpc",
+  "type": "util",
+  "commands": [
+    "version",
+    "help",
+    "update"
+  ],
+  "eventHandlers": []
+}
